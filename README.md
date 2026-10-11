@@ -1,14 +1,14 @@
 # Panashe Bobojani
 
-I build practical AI and software systems, with a focus on document intelligence, review workflows, and operations tools. I am based in Harare, Zimbabwe.
+I build document intelligence and operations software in Harare, Zimbabwe. My work focuses on traceable decisions, human review, and reliable day-to-day workflows.
 
 ## Selected work
 
-- [**InsureIntel**](https://github.com/pbobojani/insureintel) — an insurance document intelligence capstone with document review, compliance checks, and insurer analysis.
-- [**DocuDigit AI**](https://github.com/pbobojani/docudigit-ai) — a local document digitization workflow that combines OCR, human review, and controlled export.
-- [**SparePilot Operations**](https://github.com/pbobojani/sparepilot-operations) — an operations platform for inventory, purchasing, transfers, and sales across spare parts businesses.
+- [**InsureIntel**](https://github.com/pbobojani/insureintel) — my insurance intelligence capstone. I built document analysis and review, compliance checks, and separate insurer profiling. The public release leaves out live data and model files.
+- [**DocuDigit AI**](https://github.com/pbobojani/docudigit-ai) — I built local OCR, evidence-based field review, and controlled DOCX export. The command-line workflow and API are implemented; the browser review interface is planned.
+- [**SparePilot Operations**](https://github.com/pbobojani/sparepilot-operations) — I built stock, purchasing, sales, and approval workflows across an offline-capable web app and API. The public repository includes the self-hosted implementation; the hosted pilot code is separate.
 
-I document what each project does, how to run it, what I built, and its current limits in the repository README.
+Each repository includes a visual workflow, setup steps, tests, and current limits.
 
 ## Connect
 
